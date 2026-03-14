@@ -7,6 +7,7 @@ This project analyzes and improves a manually constructed multi-asset portfolio 
 Starting from an initial portfolio allocation, the strategy was optimized under realistic allocation constraints and then evaluated using out-of-sample testing and CAPM regression to measure alpha, risk-adjusted performance, and market exposure.
 
 ## Dashboard Preview
+![Dashboard Preview](Screenshots/Dashboard.png)
 
 ## Objectives
 
